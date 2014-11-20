@@ -1,0 +1,23 @@
+Bill of Materials from main.sch, 23 parts, grouped by values, as of 1/9/2012 9:30:32 PM
+
+Part			Value		Description
+C1			.047u		CAPACITOR, European symbol
+C2			2.2u		POLARIZED CAPACITOR, European symbol
+C3			100u		POLARIZED CAPACITOR, European symbol
+C4			22u		POLARIZED CAPACITOR, European symbol
+C5			470u		POLARIZED CAPACITOR, European symbol
+C6			.22u		POLARIZED CAPACITOR, European symbol
+C7			220u		POLARIZED CAPACITOR, European symbol
+D3			 		DIODE
+D5			 		DIODE
+IC1			40106N		Hex SCHMITT TRIGGER
+IC3			LM386N-1	Low Voltage Audio Power Amplifier
+LED1, LED2		 		LED
+PHOTO1, PHOTO2, PHOTO3	 		RESISTOR, European symbol
+PWR, SPEAKER		 		PIN HEADER
+R1			470		RESISTOR, European symbol
+R2, R3			330		RESISTOR, European symbol
+R4			10k		RESISTOR, European symbol
+R15			10		RESISTOR, European symbol
+
+
