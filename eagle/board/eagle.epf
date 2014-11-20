@@ -1,0 +1,30 @@
+[Eagle]
+Version="06 00 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-6.0.0/lbr/led.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.0.0/lbr/linear.lbr"
+UsedLibrary="F:/foxy-win/electronics/eagle/libraries/adam - ics.lbr"
+UsedLibrary="F:/foxy-win/electronics/eagle/libraries/adam - mechanical.lbr"
+UsedLibrary="F:/foxy-win/electronics/eagle/libraries/adam - misc.lbr"
+UsedLibrary="F:/foxy-win/electronics/eagle/libraries/adam - passive.lbr"
+UsedLibrary="F:/foxy-win/electronics/eagle/libraries/adam - transistors etc.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/pinhead.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/supply1.lbr"
+UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/transistor-npn.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="200 200 1113 760"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 1024"
+Window="Win_1"

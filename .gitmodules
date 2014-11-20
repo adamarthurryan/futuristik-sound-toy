@@ -1,0 +1,3 @@
+[submodule "eagle/libraries"]
+	path = eagle/libraries
+	url = http://github.com/adamarthurryan/eagle-libraries.git
