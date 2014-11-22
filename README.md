@@ -3,6 +3,8 @@ noise-and-light-synth
 
 A simple noise synth with oscillators and feedback through flashing LEDS. Was presented in a series of workshops in Montreal, 2010 - 2012.
 
+See documentation of the workshops here: http://madanworb.com/blog/2013/01/16/bleeps-workshop/
+
 # Files:
 
 - boards/sheet.png - a ready-to-burn 4 board layout (suitable for transferring to a 6"x4" photosensitive copper board) with some cool imagery built into the copper ground plane
